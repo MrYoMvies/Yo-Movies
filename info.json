@@ -1,0 +1,8 @@
+
+ {
+  "status": "ok",
+  "app_name": "YoMovies",
+  "app_version": "1.0.0",
+  "app_update_force": "no",
+  "app_update_link": "https://yo-movies.com/app/example.apk"
+ }
